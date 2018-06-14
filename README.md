@@ -1,14 +1,14 @@
 
-#近期学习计划
+# 近期学习计划
 @(每天任务)[计划]
 
-##主要目标
+## 主要目标
 
 - **知识巩固**
 - **通过面试**
 
 
-##复习概要
+## 复习概要
 
 - **HTML CSS基础知识**
 - **JavaScript基础知识**
@@ -20,11 +20,11 @@
 - **vue 小程序基础知识**
 - **NodeJS及express框架**
 
-###HTML CSS基础知识
+### HTML CSS基础知识
 
 参考资料：https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers
 
-####重点问题
+#### 重点问题
 
 - 页面导入样式时，使用link和@import有什么区别
 - 浏览器加载资源的顺序
@@ -56,7 +56,7 @@
 - 优雅降级和渐进增强
 - 栅格布局
 
-####JavaScript及ES基础
+#### JavaScript及ES基础
 
 参考资料 
 	JavaScript深入系列	https://github.com/mqyqingfeng/Blog/issues/17
@@ -91,7 +91,7 @@
 - canvas使用
 - JavaScript动画和css动画
 
-####react redux
+#### react redux
 
 参考资料
 官方文档 https://doc.react-china.org/
